@@ -1,7 +1,5 @@
 # Introduction
 
-
-
 Cubing resources are easy to procure, but they often lack the proper annotations to explain the context -- When should I learn this? How much faster will I be? Is X the only way to Y? What sort of progression should I expect? Is this the best quality resource out there? As a result, cubers might get confused about what to learn next, or spent time learning stuff way too advanced for their level.
 
 That's the motivation behind the Roux Reader. It hopes to fill this void for Roux method speedsolvers: by being the missing **user manual** that explains how to pick the top quality resources that are best suited to your skill level, and how to set expectations when learning them.
